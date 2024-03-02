@@ -28,7 +28,7 @@ If you have any suggestions for improvements or would like to report a bug, feel
 
 ## Credits
 
-This Tic-Tac-Toe game was created by [Your Name]. 
+This Tic-Tac-Toe game was created by Pawan Singh Rajpoot
 
 ## License
 
